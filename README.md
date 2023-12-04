@@ -1,6 +1,13 @@
 # Learnt From YouTube
 
-Reference Video Link [https://www.youtube.com/watch?v=w7ejDZ8SWv8], Channel: Traversy Media
+[Reference Video Link] (https://www.youtube.com/watch?v=w7ejDZ8SWv8), Channel: Traversy Media
+
+In the project directory, you can run:
+
+### `npm run server`
+
+Run backend API from localhost of port 5000 in the development mode.\
+Open [http://localhost:5000/tasks](http://localhost:5000/tasks) to view all the tasks(GET METHOD).
 
 # Getting Started with Create React App
 
